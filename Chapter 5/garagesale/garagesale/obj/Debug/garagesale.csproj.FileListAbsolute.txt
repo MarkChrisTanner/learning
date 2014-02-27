@@ -1,0 +1,6 @@
+C:\Users\Mark\Dropbox\Projects\Chapter 5\garagesale\garagesale\bin\Debug\garagesale.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 5\garagesale\garagesale\bin\Debug\garagesale.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 5\garagesale\garagesale\bin\Debug\garagesale.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 5\garagesale\garagesale\obj\Debug\garagesale.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\Chapter 5\garagesale\garagesale\obj\Debug\garagesale.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 5\garagesale\garagesale\obj\Debug\garagesale.pdb

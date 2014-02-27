@@ -1,0 +1,5 @@
+C:\Users\Mark\Dropbox\Projects\Chapter 4\Hurricane\Hurricane\bin\Debug\Hurricane.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 4\Hurricane\Hurricane\bin\Debug\Hurricane.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 4\Hurricane\Hurricane\bin\Debug\Hurricane.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 4\Hurricane\Hurricane\obj\Debug\Hurricane.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 4\Hurricane\Hurricane\obj\Debug\Hurricane.pdb

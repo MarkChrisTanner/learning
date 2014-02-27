@@ -1,0 +1,6 @@
+C:\Users\Mark\Dropbox\Projects\Chapter 2\pigLatin\pigLatin\bin\Debug\pigLatin.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 2\pigLatin\pigLatin\obj\Debug\pigLatin.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\Chapter 2\pigLatin\pigLatin\bin\Debug\pigLatin.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 2\pigLatin\pigLatin\bin\Debug\pigLatin.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 2\pigLatin\pigLatin\obj\Debug\pigLatin.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 2\pigLatin\pigLatin\obj\Debug\pigLatin.pdb

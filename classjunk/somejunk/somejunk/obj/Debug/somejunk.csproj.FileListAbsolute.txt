@@ -1,0 +1,6 @@
+C:\Users\Mark\Dropbox\Projects\classjunk\somejunk\somejunk\bin\Debug\somejunk.exe.config
+C:\Users\Mark\Dropbox\Projects\classjunk\somejunk\somejunk\bin\Debug\somejunk.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\somejunk\somejunk\bin\Debug\somejunk.pdb
+C:\Users\Mark\Dropbox\Projects\classjunk\somejunk\somejunk\obj\Debug\somejunk.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\classjunk\somejunk\somejunk\obj\Debug\somejunk.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\somejunk\somejunk\obj\Debug\somejunk.pdb

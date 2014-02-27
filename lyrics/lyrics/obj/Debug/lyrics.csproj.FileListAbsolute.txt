@@ -1,0 +1,5 @@
+c:\users\mark\documents\visual studio 2013\Projects\lyrics\lyrics\bin\Debug\lyrics.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\lyrics\lyrics\bin\Debug\lyrics.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\lyrics\lyrics\bin\Debug\lyrics.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\lyrics\lyrics\obj\Debug\lyrics.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\lyrics\lyrics\obj\Debug\lyrics.pdb

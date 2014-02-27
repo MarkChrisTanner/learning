@@ -1,0 +1,5 @@
+C:\Users\Mark\Dropbox\Projects\classjunk\jan30\debugchapter2\debugchapter2\bin\Debug\debugchapter2.exe.config
+C:\Users\Mark\Dropbox\Projects\classjunk\jan30\debugchapter2\debugchapter2\bin\Debug\debugchapter2.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\jan30\debugchapter2\debugchapter2\bin\Debug\debugchapter2.pdb
+C:\Users\Mark\Dropbox\Projects\classjunk\jan30\debugchapter2\debugchapter2\obj\Debug\debugchapter2.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\jan30\debugchapter2\debugchapter2\obj\Debug\debugchapter2.pdb

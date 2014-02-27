@@ -1,0 +1,2 @@
+C:\Users\Mark\Dropbox\Projects\classjunk\junk\junk\bin\Debug\junk.exe.config
+C:\Users\Mark\Dropbox\Projects\classjunk\junk\junk\obj\Debug\junk.csprojResolveAssemblyReference.cache

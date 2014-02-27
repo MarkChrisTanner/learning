@@ -1,0 +1,6 @@
+C:\Users\Mark\Dropbox\Projects\classjunk\feb04\feb04\bin\Debug\feb04.exe.config
+C:\Users\Mark\Dropbox\Projects\classjunk\feb04\feb04\bin\Debug\feb04.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\feb04\feb04\bin\Debug\feb04.pdb
+C:\Users\Mark\Dropbox\Projects\classjunk\feb04\feb04\obj\Debug\feb04.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\classjunk\feb04\feb04\obj\Debug\feb04.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\feb04\feb04\obj\Debug\feb04.pdb

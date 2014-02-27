@@ -1,0 +1,9 @@
+C:\Users\Mark\Dropbox\Projects\Chapter 2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\Chapter 2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 4\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 4\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 4\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb

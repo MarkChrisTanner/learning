@@ -1,0 +1,5 @@
+C:\Users\Mark\Dropbox\Projects\classjunk\junk2\junk2\bin\Debug\junk2.exe.config
+C:\Users\Mark\Dropbox\Projects\classjunk\junk2\junk2\bin\Debug\junk2.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\junk2\junk2\bin\Debug\junk2.pdb
+C:\Users\Mark\Dropbox\Projects\classjunk\junk2\junk2\obj\Debug\junk2.exe
+C:\Users\Mark\Dropbox\Projects\classjunk\junk2\junk2\obj\Debug\junk2.pdb

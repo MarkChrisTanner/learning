@@ -1,0 +1,6 @@
+C:\Users\Mark\Dropbox\Projects\Chapter 5\greenvillie\greenvillie\bin\Debug\greenvillie.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 5\greenvillie\greenvillie\bin\Debug\greenvillie.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 5\greenvillie\greenvillie\bin\Debug\greenvillie.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 5\greenvillie\greenvillie\obj\Debug\greenvillie.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\Chapter 5\greenvillie\greenvillie\obj\Debug\greenvillie.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 5\greenvillie\greenvillie\obj\Debug\greenvillie.pdb

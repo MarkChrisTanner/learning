@@ -1,0 +1,6 @@
+C:\Users\Mark\Dropbox\Projects\Chapter 2\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.exe.config
+C:\Users\Mark\Dropbox\Projects\Chapter 2\MilesToFeet\MilesToFeet\obj\Debug\MilesToFeet.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Projects\Chapter 2\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 2\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.pdb
+C:\Users\Mark\Dropbox\Projects\Chapter 2\MilesToFeet\MilesToFeet\obj\Debug\MilesToFeet.exe
+C:\Users\Mark\Dropbox\Projects\Chapter 2\MilesToFeet\MilesToFeet\obj\Debug\MilesToFeet.pdb
